@@ -14,3 +14,8 @@ body{
     color: var(--bronco);
     font-size: 'chakra Patch', sans-serif;
 }
+ .botao.ativo{
+    background-color: var(--botao-ativo);
+    border-bottom: 4px solid var(--verde);
+}
+
